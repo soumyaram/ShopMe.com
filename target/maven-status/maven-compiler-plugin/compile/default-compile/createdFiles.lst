@@ -1,0 +1,15 @@
+com\shopme\web\products\ProductGetServlet.class
+com\shopme\web\model\converter\DataConverter.class
+com\shopme\web\model\ProductUpdateModel.class
+com\shopme\web\model\ProductServiceModel.class
+com\shopme\web\products\ReminderServlet.class
+com\shopme\controllers\ShopMeHomeController.class
+com\shopme\db\service\dao\DBConnection.class
+com\shopme\db\model\list\ProductList.class
+com\shopme\db\service\ProductDBService.class
+com\shopme\controllers\ProductController.class
+com\shopme\controllers\ShopMeWebServiceController.class
+com\shopme\db\model\Product.class
+com\shopme\db\service\dao\impl\ProductDAOImpl.class
+com\shopme\web\products\ProductViewServlet.class
+com\shopme\db\service\dao\ProductDAO.class
